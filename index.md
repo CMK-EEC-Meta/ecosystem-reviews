@@ -12,15 +12,15 @@ title: Home
 
 <div style="max-width: 900px; margin: 2rem auto; line-height: 1.6; font-size: 1.05rem;">
   <p>
-    This Ecosystem of Reviews is an integrated and dynamic framework that encompasses systematic reviews, meta-analyses, and evidence maps, all interacting to provide comprehensive evidence for the effects of carbon pricing, supporting robust, real-time policy decisions.
+    This Ecosystem of Reviews is an integrated and dynamic framework that encompasses systematic reviews, meta-analyses, and evidence maps, all of which interact to provide comprehensive evidence on the effects of carbon pricing, supporting robust, real-time policy decisions.
   </p>
 
   <p>
-    The focus is primarily on meta-analyses of empirical evaluations of the ex-post literature that synthesize the most recent information available and ideally have the ambition to become living evidence. Turning systematic reviews and meta-analyses into living evidence is particularly indicated as carbon prices will change over time.
+    The focus is primarily on meta-analyses of empirical evaluations of the ex-post literature that synthesise the most recent information available and, ideally, aim to become living evidence. Turning systematic reviews and meta-analyses into living evidence is particularly indicated as carbon prices will change over time.
   </p>
 
   <p>
-    Unlike traditional reviews that often exist in disciplinary or temporal isolation, this approach treats reviews not as standalone outputs but as interdependent nodes in a living, adaptive knowledge network. Each review contributes to and draws from others within the system, fostering coherence, reducing redundancy, and enabling methodological harmonization to ensure comparability and uphold quality standards.
+    Unlike traditional reviews that often exist in disciplinary or temporal isolation, this approach treats reviews not as standalone outputs but as interdependent nodes in a living, adaptive knowledge network. Each review contributes to and draws from others within the system, fostering coherence, reducing redundancy, and enabling methodological harmonisation to ensure comparability and uphold quality standards.
   </p>
 </div>
 
@@ -69,6 +69,17 @@ title: Home
           </li>
         </ul>
       </div>
+
+        <div>
+        Leakage
+        <ul>
+          <li>
+            Chen, H., Di Gregorio, M., & Paavola, J. (2026). 
+            <em>Carbon leakage in emissions trading systems: a systematic review and meta-analysis of ex-ante and ex-post evidence.</em> 
+            <a href="[https://www.nature.com/articles/s44168-024-00153-x](https://doi.org/10.1080/14693062.2026.2627750)" target="_blank" rel="noopener">Climate Policy, 1-17</a>.
+          </li>
+        </ul>
+      </div>
     </div>
 
     <!-- IN PROGRESS -->
@@ -93,7 +104,6 @@ title: Home
 
     <div class="sub-items">
       <ul>
-        <li>Leakage</li>
         <li>Distribution</li>
         <li>Labour Market</li>
         <li>Competitiveness</li>
