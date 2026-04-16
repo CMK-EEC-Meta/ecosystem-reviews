@@ -76,7 +76,7 @@ title: Home
           <li>
             Chen, H., Di Gregorio, M., & Paavola, J. (2026). 
             <em>Carbon leakage in emissions trading systems: a systematic review and meta-analysis of ex-ante and ex-post evidence.</em> 
-            <a href="[https://www.nature.com/articles/s44168-024-00153-x](https://doi.org/10.1080/14693062.2026.2627750)" target="_blank" rel="noopener">Climate Policy, 1-17</a>.
+            <a href="https://doi.org/10.1080/14693062.2026.2627750" target="_blank" rel="noopener">Climate Policy, 1-17</a>.
           </li>
         </ul>
       </div>
