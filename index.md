@@ -54,7 +54,7 @@ title: Home
           <li>
             Saran, A., Ojiambo, K. O., Munubi, B., Mohan, A., Armadi, J., Guo, N., Young, S., White, H., & Waddington, H. S. (2025). 
             <em>Carbon Pricing Interventions in East Africa: A Rapid Evidence Assessment.</em> 
-            <a href="https://www.evidencefund.com/lib/XT7FNLQQ/XT7FNLQQ" target="_blank" rel="noopener">Foreign, Commonwealth & Development Office</a>.
+            <a href="https://www.evidencefund.com/lib/XT7FNLQQ" target="_blank" rel="noopener">Foreign, Commonwealth & Development Office</a>.
           </li>
         </ul>
       </div>
